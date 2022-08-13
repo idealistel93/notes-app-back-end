@@ -1,0 +1,4 @@
+User name: wilsondevwebapp
+Password: Wd200519
+Access key ID,Secret access key: 557027528213
+Console login link: https://557027528213.signin.aws.amazon.com/console
